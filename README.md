@@ -12,6 +12,7 @@
 - [Игра отгадыает число от 1 до 100 с мозгами](https://github.com/sozdam3d/FirstRepository/tree/master/Final_Task)
 - [Работа с данными компании HeadHunter](https://github.com/sozdam3d/FirstRepository/tree/master/hh)
 - [Анализ ваканский из HeadHunter](https://github.com/sozdam3d/FirstRepository/tree/master/hh/Project_2)
+- Проект с машинным обучением в процессе...
 
 
 ### 💡 Основные компетенции 💡
