@@ -8,8 +8,8 @@
   - онлайн-школа IT-профессий "SkillFactory", специальность "Data Science" 2022 - настоящее время.
 
 ### 📚 Проекты 📚
-- [Работа с данными компании HeadHunter](https://github.com/sozdam3d/projects/tree/master/hh) !
-- [Анализ ваканский из HeadHunter](https://github.com/sozdam3d/projects/tree/master/hh/Project_2) !
+- [Работа с данными компании HeadHunter](https://github.com/sozdam3d/projects/tree/master/hh)
+- [Анализ ваканский из HeadHunter](https://github.com/sozdam3d/projects/tree/master/hh/Project_2)
 - [Соревнования Kaggle](https://github.com/sozdam3d/projects/tree/master/EDA/Project.Eda%2BFeatureEngineering)
 
 
